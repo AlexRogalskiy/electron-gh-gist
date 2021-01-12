@@ -38,7 +38,7 @@
     "nedb": "^1.8.0",
     "opencollective-postinstall": "^2.0.3",
     "source-sans-pro": "^3.6.0",
-    "vue": "^2.6.11",
+    "vue": "^2.6.12",
     "vue-clipboard2": "^0.3.1",
     "vue-router": "^3.3.2",
     "vue-select": "^3.10.2",
@@ -68,7 +68,7 @@
     "sass-loader": "^8.0.2",
     "spectron": "^10.0.1",
     "vue-cli-plugin-electron-builder": "2.0.0-beta.6",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.12"
   },
   "collective": {
     "type": "opencollective",
