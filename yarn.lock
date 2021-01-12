@@ -1729,7 +1729,7 @@
     webpack "^4.0.0"
     yorkie "^2.0.0"
 
-"@vue/cli-plugin-router@^4.3.1", "@vue/cli-plugin-router@^4.5.10":
+"@vue/cli-plugin-router@^4.5.10":
   version "4.5.10"
   resolved "https://registry.yarnpkg.com/@vue/cli-plugin-router/-/cli-plugin-router-4.5.10.tgz#546eaf6295bb125ce2365fb6db83548979776b0d"
   integrity sha512-roiZTx2W59kTRaqNzHEnjnakP89MS+pVf3zWBlwsNXZpQuvqwFvoNfH/nBSJjqGRgZTRtCUe6vGgVPUEFYi/cg==
